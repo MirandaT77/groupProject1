@@ -1,5 +1,5 @@
 ﻿# Group Project #1
-## FéRIAS Vacation Planner
+## FéRIAS Event/Vacation Planner
 
 User will input:
 * A vacation destination 

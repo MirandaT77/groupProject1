@@ -3,17 +3,18 @@
 
 User will input:
 * A vacation destination 
-* Duration of vacation
+* Date of travel
 
 The site will then:
 * Give weather for location during that duration
-* Events during the given time frame
+* Ticketmaster events for the area
 
 This site uses
 
 * HTML
 * CSS
 * Javascript
+* API for weather and Ticketmaster
 
 https://mirandat77.github.io/groupProject1/
 

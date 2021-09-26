@@ -15,6 +15,7 @@ This site uses
 * CSS
 * Javascript
 * API for weather and Ticketmaster
+* Bulma framework
 
 https://mirandat77.github.io/groupProject1/
 

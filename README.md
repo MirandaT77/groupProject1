@@ -1,5 +1,5 @@
-﻿# groupProject1
-## Vacation Planner
+﻿# Group Project #1
+## FéRIAS Vacation Planner
 
 User will input:
 * A vacation destination 

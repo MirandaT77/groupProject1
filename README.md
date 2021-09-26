@@ -2,7 +2,7 @@
 ## FéRIAS Event/Vacation Planner
 
 User will input:
-* A vacation destination 
+* A travel destination 
 * Date of travel
 
 The site will then:
